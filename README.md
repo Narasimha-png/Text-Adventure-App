@@ -1,16 +1,23 @@
-# text_adventure_game
+# Text Adventure Game
 
-A new Flutter project.
+## Overview
+This is a simple text adventure game built using Flutter. Players can navigate through various rooms, interact with objects, and use voice commands to enhance their gaming experience. The game incorporates a speech-to-text feature, allowing players to use voice commands for navigation and actions.
 
-## Getting Started
+## Features
+- Explore various rooms by navigating through commands.
+- Interact with objects and collect items.
+- Use voice commands for a more immersive experience.
+- Beautifully designed interface for an engaging experience.
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- Dart SDK
+- A web browser (for web deployment)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/text_adventure_game.git
+   cd text_adventure_game
